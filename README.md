@@ -1,4 +1,4 @@
-# Dillinger
+# Dillinger [![Build Status](https://api.travis-ci.org/dotledger/dillinger.png?branch=master)](https://travis-ci.org/dotledger/dillinger) [![Code Climate](https://codeclimate.com/github/dotledger/dillinger.png)](https://codeclimate.com/github/dotledger/dillinger)
 
 Dillinger is a library for detecting and parsing bank statements in Ruby.
 

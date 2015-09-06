@@ -27,7 +27,7 @@ bundle
 # Open the statement file
 file = open('./spec/fixtures/example_ofx.ofx')
 
-# Initialize a new Dillenger parser. This will return `false` if the statement
+# Initialize a new Dillinger parser. This will return `false` if the statement
 # format can't be detected
 parser =  Dillinger.new(file)
 # => #<Dillinger::Parser::Ofx ...>

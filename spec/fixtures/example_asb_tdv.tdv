@@ -1,0 +1,12 @@
+Created date / time : 24 December 2014 / 19:38:14
+Bank 12; Branch 3456; Account 7890123-45-00
+From date 20141220
+To date 20141224
+Avail Bal : 1000.00 as of 20141224
+Ledger Balance : 1000.00 as of 20141224
+Date	Unique Id	Tran Type	Cheque Number	Payee	Memo	Amount
+
+2014/12/20	2014122001	XFER			"Savings"	-500.00
+2014/12/21	2014122101	POS		"Bob's Cafe"	"EFTPOS"	-3.80
+2014/12/22	2014122201	DEBIT		"LOAN - INTEREST"	"12-3456-7890123-45 001 INTEREST"	-456.78
+2014/12/23	2014122301	DIRECTDEP		"Acme, Inc."	"Wages"	5678.90

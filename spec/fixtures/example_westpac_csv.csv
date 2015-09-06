@@ -1,0 +1,5 @@
+Date,Amount,Other Party,Description,Reference,Particulars,Analysis Code
+20/12/2014,-500.00,"To 12-3456-7890123-45-02","ONLINE BANKING","11:11-11111","Savings","Transfer",
+21/12/2014,-3.80,"Bob's Cafe","EFTPOS TRANSACTION","11:11-11112","111111111111","1111   11111",
+22/12/2014,-456.78,"LOAN - INTEREST","BILL PAYMENT","11:11-11113","12-3456-7890123-45 001 INTEREST","repayment",
+23/12/2014,5678.90,"Acme, Inc.","DEPOSIT","11:11-11114","Wages","",
